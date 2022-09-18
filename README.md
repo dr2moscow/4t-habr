@@ -81,7 +81,6 @@ source env/bin/activate
 #### Настраиваем виртуальное окружение
 Ставим зависимости
 ```
-cd habr
 pip install -r requirements.txt
 ```
 
