@@ -67,7 +67,7 @@ cd habr
 sudo git clone https://github.com/Project-room2/habr.git
 ```
 
-#### Создаем виртуальное окружение (из папки /home/kbook/knackbook)
+#### Создаем виртуальное окружение (из папки /home/habr)
 ```
 sudo apt-get install python3-venv
 python -m venv env
