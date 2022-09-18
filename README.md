@@ -64,7 +64,7 @@ sudo apt-get install python3-pip
 ```
 mkdir habr
 cd habr
-sudo git clone https://github.com/Project-room2/habr.git
+git clone https://github.com/Project-room2/habr.git
 ```
 
 #### Создаем виртуальное окружение (из папки /home/habr)
